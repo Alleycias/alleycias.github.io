@@ -82,7 +82,7 @@ section h3 {
     color: #D988FC;
     margin-bottom: 20px;
 }
-.about p {
+.about  {
     text-align: center;
     color: #666;
     word-spacing: 2px;
@@ -100,4 +100,8 @@ footer {
 .label {
     background-color: #D988FC;
     color: #fff;
+}
+.service {
+    text-align: center;
+    color: #D988FC;
 }
