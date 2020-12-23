@@ -97,11 +97,27 @@ footer {
     color: #fff;
     text-align: center;
 }
+
 .label {
     background-color: #D988FC;
     color: #fff;
 }
+
 .service {
     text-align: center;
     color: #D988FC;
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+    header h1 {
+        text-align: center;
+        float: none;
+    }
+    header ul {
+        text-align: center;
+        float: none;
+    }
 }
